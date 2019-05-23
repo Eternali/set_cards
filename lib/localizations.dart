@@ -8,6 +8,7 @@ class AppLocalizations {
   }
 
   String get live => 'Live';
+  String get score => 'Score';
   String get solo => 'Solo';
   String get title => 'SET';
   String get turns => 'Turns';

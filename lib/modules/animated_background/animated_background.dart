@@ -11,7 +11,7 @@ class AnimatedBackground extends StatelessWidget {
     this.duration = const Duration(seconds: 3),
     this.colors,
     Key key
-  }): super(key: key);
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
